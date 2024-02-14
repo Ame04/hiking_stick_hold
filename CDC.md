@@ -62,7 +62,7 @@
 # References
 ## Hicking stick
 
- Hiking sticks are foldable ones in carbon. They are saparated in three pieces and pop out if you remove the little band holding it. The three rods have differents sizes but the one in the middle can be considered beeing constant in diameter on its whole it lentgh. When folded, the three rods are in a triangular arrangement with all length beeing side to side. (cf attached pictures)
+ Hiking sticks are foldable ones in carbon. They are saparated in three pieces and pop out if you remove the little band holding it. The three rods have differents sizes but the one in the middle can be considered beeing constant in diameter on its whole lentgh. When folded, the three rods are in a triangular arrangement with all length beeing side to side. The little gloves are detachable. (cf attached pictures)
 
  - Diameter of the middle part : 14mm
  - Lentgh of the parts : 410mm
@@ -71,10 +71,10 @@
 
 ## User
 
- - back width :
- - back length :
- - average running pace :
+ - back width : ~ 40cm
+ - back length : ~ 80cm (but the running backpack takes 2/3 of it)
+ - average running pace : 148 spm (stride per min)
 
- I don't have the average amplitude for my back vertical movement.
+ I don't have the average amplitude for the back vertical movement.
 
  For more information refer to pictures attached.
